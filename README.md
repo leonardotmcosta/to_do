@@ -1,7 +1,7 @@
 ### Eventos e Funções
 
 #### 1. Carregar as Tarefas ao Iniciar
-
+ 
 ```javascript
 document.addEventListener('DOMContentLoaded', loadTasks);
 ```
